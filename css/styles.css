@@ -22,26 +22,3 @@ a:hover {
     color: #49904A;
     text-decoration: none;
 }
-
-/* styles.css */
-html, body {
-    height: 100%;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center; /* Centra horizontalmente */
-    align-items: center; /* Centra verticalmente */
-    background-color: #1B1C1D;
-    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
-    color: #E4E4E4;
-}
-
-.content {
-    width: 900px; /* Ancho del recuadro */
-    height: 600px; /* Alto del recuadro */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: left;
-    box-sizing: border-box;
-}
