@@ -23,7 +23,7 @@ a:hover {
     text-decoration: none;
 }
 
-/* Centrado de contenido */
+/* styles.css */
 html, body {
     height: 100%;
     margin: 0;
@@ -37,5 +37,11 @@ html, body {
 }
 
 .content {
+    width: 900px; /* Ancho del recuadro */
+    height: 600px; /* Alto del recuadro */
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: left;
+    box-sizing: border-box;
 }
