@@ -1,4 +1,4 @@
-/* Estilos generales para pantallas grandes (más de 600px) */
+/* Style general para más de 600px */
 body, td, th {
     font-size: 12px;
     font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
@@ -8,7 +8,7 @@ body, td, th {
 }
 
 body {
-    background-color: #222222;
+    background-color: #4a1145;
     padding: 20px;
     max-width: 1200px; /* Límite de ancho para pantallas grandes */
     }
