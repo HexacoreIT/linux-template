@@ -14,11 +14,11 @@ body {
     }
 
 a:link, a:visited, a:active {
-    color: #ea542f;
+    color: #fff500;
     text-decoration: none;
 }
 
 a:hover {
-    color: #fff500;
+    color: #ea542f;
     text-decoration: none;
 }
